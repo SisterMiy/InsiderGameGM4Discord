@@ -1,0 +1,6 @@
+{
+  "name": "insider-game09",
+  "description": "インサイダーゲーム GM用BOT",
+  "repository": "https://github.com/SisterMiy/InsiderGameGM4Discord",
+  "keywords": ["python", "discord", "bot"]
+}
