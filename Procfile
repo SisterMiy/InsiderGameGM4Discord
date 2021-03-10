@@ -1,1 +1,1 @@
-bot: python insidergm.py
+discordbot: python insidergm.py
